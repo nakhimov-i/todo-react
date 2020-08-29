@@ -1,0 +1,22 @@
+p {
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  margin-left: 10px;
+}
+
+.itemContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 50vw;
+  margin: 1rem auto;
+  padding: 1rem;
+  border: 1px solid gray;
+}
+
+.itemButton {
+  width: 40px;
+}
